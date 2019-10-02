@@ -1,0 +1,17 @@
+<x:Array Type="sys:String"
+         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+         xmlns:sys="clr-namespace:System;assembly=mscorlib">
+    <sys:String>PHP</sys:String>
+    <sys:String>Javascript</sys:String>
+    <sys:String>Typescript</sys:String>
+    <sys:String>Go</sys:String>
+    <sys:String>Angular</sys:String>
+    <sys:String>ReactJs</sys:String>
+    <sys:String>Angular</sys:String>
+    <sys:String>ReactNative</sys:String>
+    <sys:String>Ionic</sys:String>
+    <sys:String>VueJs</sys:String>
+    <sys:String>SQL</sys:String>
+    <sys:String>NoSql</sys:String>
+    <sys:String>Virtualization</sys:String>
+</x:Array>
