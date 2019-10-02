@@ -4,10 +4,6 @@
 Write your skill and let other's know about it.
 Fork it and contribute to hacktoberFest
 
-### Get yourself free goodies by just writing a hello world!
-Say hi to the world in any language of your choice!
-
-
 ## What is Hacktoberfest?
 [Hacktoberfest](https://hacktoberfest.digitalocean.com/) is a program by Digital Ocean and Github, where you can easily win a T-Shirt just by making 5 pull requests in the month of October to any open source projects on Github.
 
