@@ -1,15 +1,15 @@
 
 # My Skills
 
-HacktoberFest My Skylls in in whatever you wont.
-Fork it and contribute to hacktober
+Write your skill and let other's know about it.
+Fork it and contribute to hacktoberFest
 
 ### Get yourself free goodies by just writing a hello world!
 Say hi to the world in any language of your choice!
 
 
 ## What is Hacktoberfest?
-Hacktoberfest is a program by Digital Ocean and Github, where you can easily win a T-Shirt just by making 5 pull requests in the month of October to any open source projects on Github.
+[Hacktoberfest](https://hacktoberfest.digitalocean.com/) is a program by Digital Ocean and Github, where you can easily win a T-Shirt just by making 5 pull requests in the month of October to any open source projects on Github.
 
 ## Steps
 
@@ -35,7 +35,7 @@ return skills;
 
 2. (Optional) Modify the contributors `README.md` file and add your name and Github user.
 
-### 4. ¿Are you ready?:
+### 4. Are you ready?:
 
 Once you have completed these steps, you are ready to start contributing creating [pull requests](https://github.com/ivoymx/my-skills/pulls).
 
