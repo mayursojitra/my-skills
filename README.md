@@ -47,3 +47,4 @@ as you can and star this project to help as many people in opensource as you can
 ### Contributors
 
 - [Rigo B Castro](https://github.com/rigobcastro)
+- [Ken G Abella](https://github.com/jkga)
