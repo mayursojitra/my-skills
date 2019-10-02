@@ -47,4 +47,5 @@ as you can and star this project to help as many people in opensource as you can
 ### Contributors
 
 - [Rigo B Castro](https://github.com/rigobcastro)
+- [JEspiCas](https://github.com/jespicas)
 - [Christian España](https://github.com/chrisaandes)
